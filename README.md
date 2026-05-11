@@ -1,4 +1,4 @@
-# YOLOv8 Small Object Detection Optimization
+# YOLO11m Small Object Detection Optimization
 
 ## 项目介绍
 
